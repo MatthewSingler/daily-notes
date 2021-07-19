@@ -1,0 +1,1 @@
+Creating a daily notes repository for NSS.
